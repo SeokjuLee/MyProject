@@ -54,7 +54,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
 #### 4. Make LMDB
     - Change paths in 'make_lmdb.sh' and execute it. The LMDB files will be created.
     
-## 5. Training
+#### 5. Training
     - Execute 'train.sh'
     
 
