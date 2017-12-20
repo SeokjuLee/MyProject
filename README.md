@@ -1,4 +1,4 @@
-## [VPGNet: Vanishing Point Guided Network<br/> for Lane and Road Marking Detection and Recognition]
+## [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition]
 
 International Conference on Computer Vision (ICCV) 2017
 
@@ -30,8 +30,8 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     git clone https://github.com/SeokjuLee/VPGNet.git
     ```
 
-2. Prepare dataset from Caltech Lanes Dataset.
-(Our dataset is currently being reviewed by Samsung Research. This baseline code doesn't need VP annotation.)
+2. Prepare dataset from Caltech Lanes Dataset.<br/>
+(Our dataset is currently being reviewed by Samsung Research. This baseline doesn't need VP annotation.)
     - Download [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes).
     - Organize the file structure as below.
     ```Shell
