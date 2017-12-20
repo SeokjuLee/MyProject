@@ -31,7 +31,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     ```
 
 2. Prepare dataset from Caltech Lanes Dataset.<br/>
-(Our dataset is currently being reviewed by Samsung Research. This baseline doesn't need VP annotation.)
+(Our dataset is currently being reviewed by Samsung Research. This baseline doesn't need VP annotations.)
     - Download [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes).
     - Organize the file structure as below.
     ```Shell
@@ -49,17 +49,13 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
 
 3. Caffe compliation
     - Compile our Caffe codes following the [instructions](http://caffe.berkeleyvision.org/installation.html).
-    - Move to 'caffe/models/vpgnet-novp'. This is our work space.
+    - Move to 'caffe/models/vpgnet-novp'. This is our workspace.
 
 4. Make LMDB
     - Change paths in 'make_lmdb.sh' and execute it. The LMDB files will be created.
     
 5. Training
     - Execute 'train.sh'
-    
-
-### Demo Code 
-+ Codes are being reviewed by Samsung Research.
 
 
 ### Dataset Contact
