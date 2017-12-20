@@ -23,9 +23,9 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     }
 
 
-## Baseline Code Usage
-+ This caffe code doesn't need VP annotation (baseline).
-#### 1) Clone the repository ####
+## Baseline Usage
+#### (The baseline code doesn't need VP annotation)
+1) Clone the repository ####
 
     ```Shell
     git clone https://github.com/SeokjuLee/VPGNet.git
