@@ -1,4 +1,5 @@
-## [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition]
+## [VPGNet: Vanishing Point Guided Network  
+for Lane and Road Marking Detection and Recognition]
 
 International Conference on Computer Vision (ICCV) 2017
 
