@@ -52,7 +52,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     - Move to 'caffe/models/vpgnet-novp'. This is our workspace.
 
 4. Make LMDB
-    - Change paths in 'make_lmdb.sh' and execute it. The LMDB files will be created.
+    - Change paths in 'make_lmdb.sh' and execute it. The LMDB files would be created.
     
 5. Training
     - Execute 'train.sh'
