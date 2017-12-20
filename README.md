@@ -23,7 +23,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     }
 
 
-### Baseline Usage (This code doesn't need VP annotation)
+### Baseline Usage
 1) Clone the repository
 
     ```Shell
@@ -31,7 +31,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
     ```
 
 2. Prepare dataset from Caltech Lanes Dataset.
-(Our dataset is currently being reviewed by Samsung Research)
+(Our dataset is currently being reviewed by Samsung Research. This baseline code doesn't need VP annotation.)
     - Download [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes).
     - Organize the file structure as below.
     ```Shell
