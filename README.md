@@ -26,15 +26,12 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
 ## Baseline Code Usage
 + This caffe code doesn't need VP annotation (baseline).
 #### 1. Clone the repository
-    ```Shell
     git clone https://github.com/SeokjuLee/VPGNet.git
-    ```
 
 #### 2. Prepare dataset from Caltech Lanes Dataset.
 (Our dataset is currently being reviewed by Samsung Research)
     - Download [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes).
     - Organize the file structure as below.
-    ```Shell
     |__ VPGNet
         |__ caffe
         |__ caltech-lanes-dataset
@@ -44,7 +41,6 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
             |__ washington1
             |__ washington2
             |__ vpg_annot_v1.m
-    ```
     - Generate list files using 'caltech-lanes-dataset/vpg_annot_v1.m'. Arrange training and validation sets as you wish. 
 
 #### 3. Caffe compliation
